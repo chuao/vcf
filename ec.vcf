@@ -1,2 +1,14 @@
-BEGIN:VCARD\nVERSION:3.0\nN:Carciente;Elias\nFN:Elias Carciente\nORG:\nTITLE:Geoscience Software Advisor\nADR:;;;;;;\nTEL;WORK;VOICE:\nTEL;CELL:+1 403 542 7912\
-nTEL;FAX:\nEMAIL;WORK;INTERNET:elias@carciente.com\nURL:elias.carciente.com\nBDAY:\nEND:VCARD\n
+BEGIN:VCARD
+VERSION:3.0
+N:Carciente;Elias
+FN:Elias Carciente
+ORG:
+TITLE:Geoscience Software Advisor
+ADR:;;;;;;
+TEL;WORK;VOICE:
+TEL;CELL:+1 403 542 7912\
+nTEL;FAX:
+EMAIL;WORK;INTERNET:elias@carciente.com
+URL:elias.carciente.com
+BDAY:
+END:VCARD
